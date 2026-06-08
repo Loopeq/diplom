@@ -1,0 +1,21 @@
+﻿column,description
+period_end,Quarter end date.
+product_group_code,Manual group code G01/G02/... based on product names.
+product_group_name,Russian product group name.
+sales_quarter_thousand_rub,"Quarterly sales flow, derived from cumulative Jan–period sales."
+sales_cumulative_thousand_rub,Original cumulative sales from start of year.
+sales_value_index,Quarterly sales value index; first available quarter = 100 within group/product.
+consumer_price_index,Mean of product-level filled consumer price indices within group.
+consumer_price_index_observed_mean,Mean of observed-only product price indices.
+mean_price_filled_rub,Product-level quarterly mean price with internal interpolation; primarily fills 2021 gap.
+price_is_interpolated,1 if product quarter has no observed price but was filled by interpolation.
+real_sales_proxy_index,"sales_value_index / consumer_price_index * 100, indexed from first available."
+physical_volume_cumulative_yoy_index,"Official cumulative physical volume index, year-over-year / cumulative period."
+per_capita_income_rub,Quarterly per-capita money income; comparable RF region selection.
+stock_days_mean,Quarterly average stock days in retail organizations.
+stock_value_mean_thousand_rub,Quarterly average retail stock value.
+ppi_group_index,Group-level PPI index built from monthly producer price indices.
+buy_ability_group_mean,Annual mean purchasing ability indicator by mapped group.
+region_scope,RF_total or RF_without_new_regions; selected to keep a comparable series when post-2023 alternatives exist.
+is_price_interpolated_2021,1 if 2021 price value is an interpolation.
+shock_2022_q1/q2/h2,Event dummy variables for 2022 shocks.

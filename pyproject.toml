@@ -1,15 +1,14 @@
-[project]
+[tool.poetry]
 name = "diplom"
 version = "0.1.0"
 description = ""
-authors = [
-    {name = "mirzaev.arsen",email = "arsen.00z11@gmail.com"}
-]
+authors = ["mirzaev.arsen <arsen.00z11@gmail.com>"]
 readme = "README.md"
-requires-python = ">=3.11"
-dependencies = [
-]
 
+[tool.poetry.dependencies]
+python = ">=3.11"
+jupyterlab = "^4.5.7"
+notebook = "^7.5.6"
 
 [build-system]
 requires = ["poetry-core>=2.0.0,<3.0.0"]

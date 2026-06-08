@@ -1,0 +1,9 @@
+﻿file,sheet,rows,note
+[2017-2025]_sales_dynamics.xls,Данные,2664,cumulative quarters converted to quarterly flows; comparable Russia region selected
+[2017-2025]_rozn_dynamics.xls,Данные,2644,physical volume cumulative YoY index; duplicate full-year columns resolved; comparable Russia region selected
+[2017-2025]_real_income.xls,Данные,36,per capita income; comparable Russia region selected
+[2016-2026]_tovar_zapas.xls,Данные,41,monthly total stock value aggregated to quarter; comparable region selected by month
+[2016-2026]_tovar_zapas_dni.xls,Данные,41,stock days aggregated to quarter; comparable region selected by month
+price_spred.xlsx,multiple,42269,"weekly consumer prices parsed from 2016-2020 and 2022-2026, no 2021 data in sources"
+price_index_proizvodstvo.xls,Данные,2760,"PPI previous-month index, market total, comparable region selected; product and group quarterly indices built"
+[2011-2025]_buy_ability.xlsx,2011-2025 РФ,503,annual purchasing ability parsed and grouped
