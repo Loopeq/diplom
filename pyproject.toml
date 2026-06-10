@@ -9,6 +9,10 @@ readme = "README.md"
 python = ">=3.11"
 jupyterlab = "^4.5.7"
 notebook = "^7.5.6"
+black = {extras = ["jupyter"], version = "^26.5.1"}
+
+[tool.poetry.group.dev.dependencies]
+jblack = "^1.2"
 
 [build-system]
 requires = ["poetry-core>=2.0.0,<3.0.0"]

@@ -1,2 +1,0 @@
-﻿product_name,model,own_price_elasticity_like_coef,pvalue,r2,nobs,interpretation,giffen_candidate_flag
-Свежий картофель,dln_demand ~ dln_price + controls + quarter_dummies,-0.9074465407139436,7.352157166910641e-06,0.9095523845160451,35,"отрицательная связь, статистически выражена","нет, признак не подтверждается"

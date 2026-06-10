@@ -1,5 +1,0 @@
-﻿feature,feature_readable,products_count,mean_coef,mean_abs_contribution,mean_signed_contribution,max_abs_contribution,share_of_total_contribution_%
-stock_value_mean_thousand_rub,Товарные запасы в стоимостном выражении,19,26.71,25.21,-0.0,233.68,43.55
-consumer_price_index,Индекс потребительских цен,19,-21.93,19.7,-0.0,139.52,34.03
-income_index,Индекс доходов населения,19,5.81,8.57,-0.0,98.8,14.8
-stock_days_mean,Товарные запасы в днях,19,-4.86,4.41,-0.0,59.73,7.62

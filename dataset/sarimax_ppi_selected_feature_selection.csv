@@ -1,4 +1,0 @@
-﻿step,candidate_feature,selected_features,validation_wape,accepted
-0,,,8.714194569685924,True
-1,stock_value_vs_group,stock_value_vs_group,8.036314947337607,True
-2,price_vs_group,stock_value_vs_group; price_vs_group,8.285292295753367,False
